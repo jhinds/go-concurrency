@@ -17,3 +17,5 @@ Articles:
 - [Concurrency is not parallelism](https://blog.golang.org/waza-talk)
 - [Share Memory By Communicating](https://blog.golang.org/codelab-share)
 - [Go Concurrency Patterns: Timing out, moving on](https://blog.golang.org/concurrency-timeouts)
+- [Squinting at Power Series](https://swtch.com/~rsc/thread/squint.pdf)
+- [O'reilly: Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/ch04.html)
